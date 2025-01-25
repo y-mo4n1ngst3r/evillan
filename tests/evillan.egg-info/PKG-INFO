@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: evillan
+Version: 1.0.0
+Summary: A CLI tool for advanced payload encoding and CVE testing
+Author: y_mo4n1ngst3r
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

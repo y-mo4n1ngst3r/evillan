@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+evillan.egg-info/PKG-INFO
+evillan.egg-info/SOURCES.txt
+evillan.egg-info/dependency_links.txt
+evillan.egg-info/entry_points.txt
+evillan.egg-info/requires.txt
+evillan.egg-info/top_level.txt

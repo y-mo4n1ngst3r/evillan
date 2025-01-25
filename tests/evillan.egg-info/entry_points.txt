@@ -1,0 +1,2 @@
+[console_scripts]
+evillan = src.cli:main
